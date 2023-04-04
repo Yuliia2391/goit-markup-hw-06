@@ -683,12 +683,6 @@ body {
     cursor: pointer;
 }
 
-.footer-btn span {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .footer-subscribe-icon {
     margin-left: 16px;
 }
